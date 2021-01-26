@@ -1,0 +1,15 @@
+{
+  "name": "week1-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sai",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^7.18.0",
+    "parcel-bundler": "^1.12.4"
+  }
+}
